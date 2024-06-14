@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<PackageId>ListToTreeJsonConverter</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Luis Alejandro Puentes Angel</Authors>
+		<Company>LAPA</Company>
+		<Description>Tranforma una lista autorefeciada en json.</Description>
+		<PackageTags>Etiqueta1</PackageTags>
+		<PackageReleaseNotes>Prueba inicial</PackageReleaseNotes>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+		<!-- Si tienes una URL de licencia o archivo de licencia -->
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<!-- Si tienes un URL del proyecto o repositorio -->
+		<RepositoryUrl>URL del repositorio</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+	</PropertyGroup>
+
+</Project>
